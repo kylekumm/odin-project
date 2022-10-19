@@ -10,6 +10,6 @@ git commit -m "A message describing what you have done to make this snapshot dif
 git status --> view status of repo (staging, commits,outstanding files etc) <br>
 git log --> view history of previous commits <br>
 <br>
-<b>Basic Git syntax is program | action | destination<b><br>
+<b>Basic Git syntax is program | action | destination</b><br>
 <b>Config commands:</b><br>
 git config --global core.editor "code --wait" --> opens a new tab to add a commit message when -m flag is left out of commit command
